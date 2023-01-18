@@ -1,0 +1,15 @@
+C:\Users\Jose\Desktop\campus-open-bootcamp\3.Back-End\1.Back-End C#\4.APIs con .NET\11.Flujo asíncrono\Unidad-11\Aplicacion\Aplicacion\bin\Debug\net6.0\Aplicacion.exe
+C:\Users\Jose\Desktop\campus-open-bootcamp\3.Back-End\1.Back-End C#\4.APIs con .NET\11.Flujo asíncrono\Unidad-11\Aplicacion\Aplicacion\bin\Debug\net6.0\Aplicacion.deps.json
+C:\Users\Jose\Desktop\campus-open-bootcamp\3.Back-End\1.Back-End C#\4.APIs con .NET\11.Flujo asíncrono\Unidad-11\Aplicacion\Aplicacion\bin\Debug\net6.0\Aplicacion.runtimeconfig.json
+C:\Users\Jose\Desktop\campus-open-bootcamp\3.Back-End\1.Back-End C#\4.APIs con .NET\11.Flujo asíncrono\Unidad-11\Aplicacion\Aplicacion\bin\Debug\net6.0\Aplicacion.dll
+C:\Users\Jose\Desktop\campus-open-bootcamp\3.Back-End\1.Back-End C#\4.APIs con .NET\11.Flujo asíncrono\Unidad-11\Aplicacion\Aplicacion\bin\Debug\net6.0\Aplicacion.pdb
+C:\Users\Jose\Desktop\campus-open-bootcamp\3.Back-End\1.Back-End C#\4.APIs con .NET\11.Flujo asíncrono\Unidad-11\Aplicacion\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.AssemblyReference.cache
+C:\Users\Jose\Desktop\campus-open-bootcamp\3.Back-End\1.Back-End C#\4.APIs con .NET\11.Flujo asíncrono\Unidad-11\Aplicacion\Aplicacion\obj\Debug\net6.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\Desktop\campus-open-bootcamp\3.Back-End\1.Back-End C#\4.APIs con .NET\11.Flujo asíncrono\Unidad-11\Aplicacion\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfoInputs.cache
+C:\Users\Jose\Desktop\campus-open-bootcamp\3.Back-End\1.Back-End C#\4.APIs con .NET\11.Flujo asíncrono\Unidad-11\Aplicacion\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfo.cs
+C:\Users\Jose\Desktop\campus-open-bootcamp\3.Back-End\1.Back-End C#\4.APIs con .NET\11.Flujo asíncrono\Unidad-11\Aplicacion\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\campus-open-bootcamp\3.Back-End\1.Back-End C#\4.APIs con .NET\11.Flujo asíncrono\Unidad-11\Aplicacion\Aplicacion\obj\Debug\net6.0\Aplicacion.dll
+C:\Users\Jose\Desktop\campus-open-bootcamp\3.Back-End\1.Back-End C#\4.APIs con .NET\11.Flujo asíncrono\Unidad-11\Aplicacion\Aplicacion\obj\Debug\net6.0\refint\Aplicacion.dll
+C:\Users\Jose\Desktop\campus-open-bootcamp\3.Back-End\1.Back-End C#\4.APIs con .NET\11.Flujo asíncrono\Unidad-11\Aplicacion\Aplicacion\obj\Debug\net6.0\Aplicacion.pdb
+C:\Users\Jose\Desktop\campus-open-bootcamp\3.Back-End\1.Back-End C#\4.APIs con .NET\11.Flujo asíncrono\Unidad-11\Aplicacion\Aplicacion\obj\Debug\net6.0\Aplicacion.genruntimeconfig.cache
+C:\Users\Jose\Desktop\campus-open-bootcamp\3.Back-End\1.Back-End C#\4.APIs con .NET\11.Flujo asíncrono\Unidad-11\Aplicacion\Aplicacion\obj\Debug\net6.0\ref\Aplicacion.dll

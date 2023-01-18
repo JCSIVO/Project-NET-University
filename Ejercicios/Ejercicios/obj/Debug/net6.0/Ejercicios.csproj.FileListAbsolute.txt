@@ -1,0 +1,15 @@
+C:\Users\Jose\Desktop\campus-open-bootcamp\3.Back-End\1.Back-End C#\4.APIs con .NET\11.Flujo asíncrono\Unidad-11\Ejercicios\Ejercicios\bin\Debug\net6.0\Ejercicios.exe
+C:\Users\Jose\Desktop\campus-open-bootcamp\3.Back-End\1.Back-End C#\4.APIs con .NET\11.Flujo asíncrono\Unidad-11\Ejercicios\Ejercicios\bin\Debug\net6.0\Ejercicios.deps.json
+C:\Users\Jose\Desktop\campus-open-bootcamp\3.Back-End\1.Back-End C#\4.APIs con .NET\11.Flujo asíncrono\Unidad-11\Ejercicios\Ejercicios\bin\Debug\net6.0\Ejercicios.runtimeconfig.json
+C:\Users\Jose\Desktop\campus-open-bootcamp\3.Back-End\1.Back-End C#\4.APIs con .NET\11.Flujo asíncrono\Unidad-11\Ejercicios\Ejercicios\bin\Debug\net6.0\Ejercicios.dll
+C:\Users\Jose\Desktop\campus-open-bootcamp\3.Back-End\1.Back-End C#\4.APIs con .NET\11.Flujo asíncrono\Unidad-11\Ejercicios\Ejercicios\bin\Debug\net6.0\Ejercicios.pdb
+C:\Users\Jose\Desktop\campus-open-bootcamp\3.Back-End\1.Back-End C#\4.APIs con .NET\11.Flujo asíncrono\Unidad-11\Ejercicios\Ejercicios\obj\Debug\net6.0\Ejercicios.csproj.AssemblyReference.cache
+C:\Users\Jose\Desktop\campus-open-bootcamp\3.Back-End\1.Back-End C#\4.APIs con .NET\11.Flujo asíncrono\Unidad-11\Ejercicios\Ejercicios\obj\Debug\net6.0\Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose\Desktop\campus-open-bootcamp\3.Back-End\1.Back-End C#\4.APIs con .NET\11.Flujo asíncrono\Unidad-11\Ejercicios\Ejercicios\obj\Debug\net6.0\Ejercicios.AssemblyInfoInputs.cache
+C:\Users\Jose\Desktop\campus-open-bootcamp\3.Back-End\1.Back-End C#\4.APIs con .NET\11.Flujo asíncrono\Unidad-11\Ejercicios\Ejercicios\obj\Debug\net6.0\Ejercicios.AssemblyInfo.cs
+C:\Users\Jose\Desktop\campus-open-bootcamp\3.Back-End\1.Back-End C#\4.APIs con .NET\11.Flujo asíncrono\Unidad-11\Ejercicios\Ejercicios\obj\Debug\net6.0\Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\campus-open-bootcamp\3.Back-End\1.Back-End C#\4.APIs con .NET\11.Flujo asíncrono\Unidad-11\Ejercicios\Ejercicios\obj\Debug\net6.0\Ejercicios.dll
+C:\Users\Jose\Desktop\campus-open-bootcamp\3.Back-End\1.Back-End C#\4.APIs con .NET\11.Flujo asíncrono\Unidad-11\Ejercicios\Ejercicios\obj\Debug\net6.0\refint\Ejercicios.dll
+C:\Users\Jose\Desktop\campus-open-bootcamp\3.Back-End\1.Back-End C#\4.APIs con .NET\11.Flujo asíncrono\Unidad-11\Ejercicios\Ejercicios\obj\Debug\net6.0\Ejercicios.pdb
+C:\Users\Jose\Desktop\campus-open-bootcamp\3.Back-End\1.Back-End C#\4.APIs con .NET\11.Flujo asíncrono\Unidad-11\Ejercicios\Ejercicios\obj\Debug\net6.0\Ejercicios.genruntimeconfig.cache
+C:\Users\Jose\Desktop\campus-open-bootcamp\3.Back-End\1.Back-End C#\4.APIs con .NET\11.Flujo asíncrono\Unidad-11\Ejercicios\Ejercicios\obj\Debug\net6.0\ref\Ejercicios.dll
